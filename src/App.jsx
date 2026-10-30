@@ -48,7 +48,7 @@ function App() {
   
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/voyara-travel">
     <ScrollToTop />
       <Routes>
         <Route path="/" element={<HomePages />} />
