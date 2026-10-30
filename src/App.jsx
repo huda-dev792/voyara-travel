@@ -5,7 +5,7 @@ import {useLocation} from "react-router-dom";
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Destinations from './components/Destinations'
-import TourDetails from "./pages/tourDetails"
+import TourDetails from "./pages/TourDetails"
 import Footer from './components/Footer'
 import About from './components/About'
 import Contact from './components/Contact'
