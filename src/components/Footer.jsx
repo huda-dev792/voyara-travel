@@ -16,7 +16,7 @@ function Footer() {
           {/* Brand */}
           <div>
             <a
-              href="/"
+              href="/voyara-travel/"
               className="flex items-center gap-2 text-3xl font-bold text-gold"
             >
               <Compass size={30} />
@@ -38,25 +38,25 @@ function Footer() {
 
             <ul className="space-y-3 text-sm text-gray-300">
               <li>
-                <a href="/" className="hover:text-gold transition">
+                <a href="/voyara-travel/" className="hover:text-gold transition">
                   Home
                 </a>
               </li>
               <li>
-                <a href="/#about" className="hover:text-gold transition">
+                <a href="/voyara-travel/#about" className="hover:text-gold transition">
                   About Us
                 </a>
               </li>
               <li>
                 <a
-                  href="/#destinations"
+                  href="/voyara-travel/#destinations"
                   className="hover:text-gold transition"
                 >
                   Destinations
                 </a>
               </li>
               <li>
-                <a href="/#contact" className="hover:text-gold transition">
+                <a href="/voyara-travel/#contact" className="hover:text-gold transition">
                   Contact Us
                 </a>
               </li>
@@ -80,7 +80,7 @@ function Footer() {
               ].map((place) => (
                 <li key={place}>
                   <a
-                    href={`/#destinations`}
+                    href={`/voyara-travel/#destinations`}
                     className="hover:text-gold transition"
                   >
                     {place}
@@ -103,7 +103,7 @@ function Footer() {
               </p>
 
               <a
-                href="/#contact"
+                href="/voyara-travel/#contact"
                 className="flex items-center gap-3 hover:text-gold transition"
               >
                 <Phone size={18} className="text-gold" />
@@ -111,7 +111,7 @@ function Footer() {
               </a>
 
               <a
-                href="/#contact"
+                href="/voyara-travel/#contact"
                 className="flex items-center gap-3 hover:text-gold transition"
               >
                 <Mail size={18} className="text-gold" />
@@ -120,7 +120,7 @@ function Footer() {
             </div>
 
             <a
-              href="/#destinations"
+              href="/voyara-travel/#destinations"
               className="mt-6 inline-flex items-center gap-2 rounded-full bg-gold px-5 py-3 text-sm font-semibold text-[#10251F] hover:opacity-90 transition"
             >
               Explore Tours <ArrowRight size={17} />

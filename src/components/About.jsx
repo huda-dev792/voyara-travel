@@ -8,7 +8,7 @@ function About() {
         {/* Image */}
         <div className="relative">
           <img
-            src="https://hassansabirblog.wordpress.com/wp-content/uploads/2018/10/8461359074_44ca5a911b_b.jpg"
+            src="/voyara-travel/images/about-mountain.jpg"
             alt="Beautiful mountains of Northern Pakistan"
             className="h-[350px] w-full rounded-2xl object-cover md:h-[500px]"
           />
