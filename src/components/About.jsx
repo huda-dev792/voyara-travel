@@ -9,8 +9,8 @@ function About() {
         <div className="relative">
           <img
             src="/voyara-travel/images/about-mountain.jpg"
-            alt="Beautiful mountains of Northern Pakistan"
-            className="h-[350px] w-full rounded-2xl object-cover md:h-[500px]"
+            alt="Beautiful mountains of Northern Pakistan" loading="lazy" decoding="async"
+            className="h-[300px] w-full rounded-2xl object-cover md:h-[500px] sm:h-[400px]"
           />
 
           <div className="absolute -bottom-5 right-4 rounded-xl border border-gold/30 bg-[#17352B] px-6 py-4 shadow-xl md:right-8">

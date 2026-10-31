@@ -19,10 +19,10 @@ function Hero () {
                     Discover extraordinary distinations and unforgettable 
                       journeys, thoughtfully desinged around you.
                    </p>
-                   <a href="#" className="mt-8 inline-block rounded-full  bg-gold text-black px-6 py-3 font-semibold hover:bg-[#f4bd55]/90 transition">
+                   <a href="/voyara-travel/#about" className="mt-8 inline-block rounded-full  bg-gold text-black px-6 py-3 font-semibold hover:bg-[#f4bd55]/90 transition">
                     Discover journeys <ArrowRight className="inline ml-3" size={18}/>
                    </a>
-                   <div class="flex gap-3">
+                   <div className="flex gap-3">
                    <div className="mt-12 mb-4 h-1 rounded-full w-11 bg-gold"></div>
                    <p className="mt-10 text-xs tracking-[0.2em] text-white/80 uppercase"> 
                     YOUR JOURNEY. YOUR STORY

@@ -28,9 +28,9 @@ function HomePages() {
   return (
     <>
     <main className="relative min-h-screen overflow-hidden">
-      <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=2000&q=85"
-            alt="Beautiful mountain landscape" className="absolute inset-0 h-full w-full object-cover"/>
-            <div className="absolute inset-0 bg-black/45"/>
+      <img src="/voyara-travel/images/hero.webp"
+            alt="Beautiful mountain landscape" fetchPriority='high' decoding="async"className="absolute inset-0 h-full w-full object-cover"/>
+            <div className="absolute inset-0  bg-black/45 w-full h-full object-cover"/>
       <div className="relative z-10">
         <Navbar />
         <Hero />

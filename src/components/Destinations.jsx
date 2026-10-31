@@ -23,9 +23,9 @@ function Destinations () {
                     <div className="mt-12 grid gap-6  grid-cols-1 sm:grid-cols-2 lg:grid-cols-4">
                         <div className="group overflow-hidden bg-white/5 border border-white/10 rounded-2xl transition-duration-300 hover:-translate-y-2">
                         <div className="relative h-[420px] overflow-hidden rounded-2xl">
-                            <img src="https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=700&q=80" 
-                            alt="Hunza Valley" className="h-full w-full object-cover transition-transform duration-500 
-                            group-hover:scale-110"/>
+                            <img src="/voyara-travel/images/hunza.webp" 
+                            alt="Hunza Valley" loading="lazy" decoding="async" className="h-full w-full object-cover transition-transform duration-500 
+                            group-hover:scale-105"/>
                             <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent"/>                            
                             <div className="absolute top-4 left-4 rounded-full text-xs px-3 py-1 bg-black/50 backdrop-blur p-2 text-gold">
                             Mountain Escape</div>
@@ -44,9 +44,9 @@ function Destinations () {
                      </div>
                      <div className="group overflow-hidden bg-white/5 border border-white/10 rounded-2xl transition-duration-300 hover:-translate-y-2">
                         <div className="relative h-[420px] overflow-hidden rounded-2xl">
-                            <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=700&q=80" 
-                            alt="Skardu" className="h-full w-full object-cover transition-transform duration-500 
-                            group-hover:scale-110"/>
+                            <img src="/voyara-travel/images/skardu.webp" 
+                            alt="Skardu" loading="lazy" decoding="async" className="h-full w-full object-cover transition-transform duration-500 
+                            group-hover:scale-105"/>
                             <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent"/>                            
                             <div className="absolute top-4 left-4 rounded-full text-xs px-3 py-1 bg-black/50 backdrop-blur p-2 text-gold">
                             Adventure</div>
@@ -65,9 +65,9 @@ function Destinations () {
                      </div>
                      <div className="group overflow-hidden bg-white/5 border border-white/10 rounded-2xl transition-duration-300 hover:-translate-y-2">
                         <div className="relative h-[420px] overflow-hidden rounded-2xl">
-                            <img src="https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=700&q=80" 
-                            alt="Fairy Meadows nature" className="h-full w-full object-cover transition-transform duration-500 
-                            group-hover:scale-110"/>
+                            <img src="/voyara-travel/images/fairy-meadows.webp" 
+                            alt="Fairy Meadows nature" loading="lazy" decoding="async" className="h-full w-full object-cover transition-transform duration-500 
+                            group-hover:scale-105"/>
                             <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent"/>                            
                             <div className="absolute top-4 left-4 rounded-full text-xs px-3 py-1 bg-black/50 backdrop-blur p-2 text-gold">
                             Nature Retreat</div>
@@ -86,9 +86,9 @@ function Destinations () {
                      </div>
                      <div className="group overflow-hidden bg-white/5 border border-white/10 rounded-2xl transition-duration-300 hover:-translate-y-2">
                         <div className="relative h-[420px] overflow-hidden rounded-2xl">
-                            <img src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=700&q=80" 
-                            alt="Sawat and Kalam" className="h-full w-full object-cover transition-transform duration-500 
-                            group-hover:scale-110"/>
+                            <img src="/voyara-travel/images/sawat.webp" 
+                            alt="Sawat and Kalam" loading="lazy" decoding="async" className="h-full w-full object-cover transition-transform duration-500 
+                            group-hover:scale-105"/>
                             <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent"/>                            
                             <div className="absolute top-4 left-4 rounded-full text-xs px-3 py-1 bg-black/50 backdrop-blur p-2 text-gold">
                             Valley Escape</div>
@@ -107,9 +107,9 @@ function Destinations () {
                      </div>
                      <div className="group overflow-hidden bg-white/5 border border-white/10 rounded-2xl transition-duration-300 hover:-translate-y-2">
                         <div className="relative h-[420px] overflow-hidden rounded-2xl">
-                            <img src="https://images.unsplash.com/photo-1728137490905-281e8c23712f?auto=format&fit=crop&fm=jpg&q=80&w=1200" 
-                            alt="Kashmir" className="h-full w-full object-cover transition-transform duration-500 
-                            group-hover:scale-110"/>
+                            <img src="/voyara-travel/images/kashmir.webp" 
+                            alt="Kashmir" loading="lazy" decoding="async" className="h-full w-full object-cover transition-transform duration-500 
+                            group-hover:scale-105"/>
                             <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent"/>                            
                             <div className="absolute top-4 left-4 rounded-full text-xs px-3 py-1 bg-black/50 backdrop-blur p-2 text-gold">
                             Nature Retreat</div>
@@ -128,9 +128,9 @@ function Destinations () {
                      </div>
                      <div className="group overflow-hidden bg-white/5 border border-white/10 rounded-2xl transition-duration-300 hover:-translate-y-2">
                         <div className="relative h-[420px] overflow-hidden rounded-2xl">
-                            <img src="https://images.unsplash.com/photo-1722599504918-a7e94343184a?auto=format&fit=crop&fm=jpg&q=80&w=1200" 
-                            alt="Naran & Kaghan mountains" className="h-full w-full object-cover transition-transform duration-500 
-                            group-hover:scale-110"/>
+                            <img src="/voyara-travel/images/naran.webp" 
+                            alt="Naran & Kaghan mountains" loading="lazy" decoding="async" className="h-full w-full object-cover transition-transform duration-500 
+                            group-hover:scale-105"/>
                             <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent"/>                            
                             <div className="absolute top-4 left-4 rounded-full text-xs px-3 py-1 bg-black/50 backdrop-blur p-2 text-gold">
                             Valley Escape</div>
